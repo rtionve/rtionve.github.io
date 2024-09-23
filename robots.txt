@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rtionve.github.io/sitemap.html.gz
+Sitemap: https://rtionve.github.io/app/sitemap.html.gz
+Sitemap: https://rtionve.github.io/assets/sitemap.html.gz
+Sitemap: https://rtionve.github.io/css/sitemap.html.gz
+Sitemap: https://rtionve.github.io/data/sitemap.html.gz
+Sitemap: https://rtionve.github.io/includes/sitemap.html.gz
+Sitemap: https://rtionve.github.io/item/sitemap.html.gz
+Sitemap: https://rtionve.github.io/src/sitemap.html.gz
